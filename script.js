@@ -33,9 +33,9 @@ const projects = {
 
     pbev: {
 
-        number: "01 / PBEV",
+        number: "01 / CARTBOT",
 
-        title: "PBEV",
+        title: "CartBot",
 
         description:
             "Projeto voltado à análise de consumo de veículos, explorando programação, dados e inteligência para transformar informações em uma solução funcional.",
@@ -51,16 +51,18 @@ const projects = {
 
     cartbot: {
 
-        number: "02 / CARTBOT",
+        number: "02 / CONECTA-GERAL",
 
-        title: "CartBot",
+        title: "Conecta Gerações",
 
         description:
-            "Projeto pessoal de automação e interação. Aqui você poderá explicar o objetivo do projeto, suas funcionalidades e os aprendizados obtidos durante o desenvolvimento.",
+            "Projeto com ponto facultativo, voltado a ajuda de pessoas com mais idade e com dificuldades com o uso do aparelho celular.",
 
         tags: [
             "Python",
-            "Automação"
+            "JavaScript"
+            "HTML"
+            "Mermaid"
         ]
 
     },
@@ -76,9 +78,10 @@ const projects = {
             "Projeto web pensado para apresentar serviços de tecnologia com uma experiência visual moderna, objetiva e responsiva.",
 
         tags: [
-            "HTML",
+            "PHP",
             "CSS",
             "JavaScript"
+            "Roff"
         ]
 
     },
